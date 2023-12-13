@@ -1,7 +1,7 @@
 The full report is available here: 
 https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/discussion/460858
 
-The section "Reproducibility" contains link to working Kaggle notebook which are easy to reproduce on Kaggle.
+The section "Reproducibility" contain links to working Kaggle notebooks which are easy to reproduce on Kaggle.
 
 For the sake of completeness let us duplicate it here.
 
