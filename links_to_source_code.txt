@@ -1,0 +1,26 @@
+The full report is available here: 
+https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/discussion/460858
+
+The section "Reproducibility" contains link to working Kaggle notebook which are easy to reproduce on Kaggle.
+
+For the sake of completeness let us duplicate it here.
+
+
+Source code is here available in the notebooks:
+Pyboost: [the basic baseline notebook](https://www.kaggle.com/code/alexandervc/pyboost-secret-grandmaster-s-tool),  other version of the PYBOOST are in the [notebook](https://www.kaggle.com/alexandervc/pyboost-u900).
+
+Catboost [Notebook](https://www.kaggle.com/code/alexandervc/fork-of-op2-oof-new-folds-v3-catboost) , [version 64, scores 0.584, 0.776](https://www.kaggle.com/code/alexandervc/fork-of-op2-oof-new-folds-v3-catboost?scriptVersionId=152513917)
+
+
+MLP-like Neural Networks employing target encoding [Notebook](https://www.kaggle.com/code/antoninadolgorukova/op2-simple-mlp-part-of-13th-place-solution), params used during the challenge: [notebook version 52](https://www.kaggle.com/code/antoninadolgorukova/op2-simple-mlp-part-of-13th-place-solution?scriptVersionId=153981848).
+
+Neural Networks based on NLP-like SMILES embedding - [the main notebook](https://www.kaggle.com/code/alexandervc/nlp-regression-custom-kfold-update1), the submission with 0.574 (0.766 private) score is [version 11](https://www.kaggle.com/code/alexandervc/nlp-regression-custom-kfold-update1?scriptVersionId=151529557).
+
+
+Blend: [Notebook](https://www.kaggle.com/code/alexandervc/op2-u900-team-blend)
+
+Most of our submissions can be found in the Kaggle datasets [submits and out-of-fold predictions](https://www.kaggle.com/datasets/alexandervc/open-problems-single-cell-perturbations-submitsetc), [Open Problems 2 Submits, etc](https://www.kaggle.com/datasets/alexandervc/open-problems-2-submits-etc)
+
+Information on all submits with public and private is in the [file](https://www.kaggle.com/code/alexandervc/op2-public-vs-private-scores/output?select=df_stat_submissions.csv)
+
+Our initial PYBOOST notebook has been openly shared and forked about 100 times, being a component of top public solo models as well as  many medal winning solutions - probably the best indication of the reproducibility. 
